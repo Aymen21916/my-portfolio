@@ -118,7 +118,7 @@ export default function Portfolio() {
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.8 }}
           >
-            <div className="text-sm uppercase tracking-wider text-blue-500 mb-2">Software Engeniring</div>
+            <div className="text-sm uppercase tracking-wider text-blue-500 mb-2">Frontend Developer & UI Designer</div>
             <h1 className="text-4xl md:text-6xl font-bold mb-4">Hi, I'm <span className="text-blue-500">Aymen Hamidi</span></h1>
             <p className={`text-lg mb-8 max-w-lg ${isDarkMode ? 'text-gray-300' : 'text-gray-600'}`}>
               I create engaging digital experiences through clean code and thoughtful design. Welcome to my portfolio.
